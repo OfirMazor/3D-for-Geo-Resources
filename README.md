@@ -16,6 +16,6 @@ Resources of open 3D geometies data and tools
 
 
 
-## Software
+## Software for 3D Geometry
 
 [FreeCad](https://www.freecadweb.org/) - Open-source parametric 3D modeler made primarily to design real-life objects of any size.
