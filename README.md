@@ -10,6 +10,8 @@ Resources of open 3D geometies data and tools
 
 [meshplot](https://github.com/skoch9/meshplot/) - Plot 3D triangle meshes
 
+[Py3DViewer](https://py3dviewer.readthedocs.io/en/latest/index.html) - Python library based on Numpy for fast prototyping of geometry processing algorithms.
+
 [cadquery](https://cadquery.readthedocs.io/en/latest/) - CadQuery is an intuitive, easy-to-use Python library for building parametric 3D CAD models
 
 
