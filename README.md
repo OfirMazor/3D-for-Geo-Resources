@@ -5,7 +5,7 @@ Resources of (open) 3D data and tools for the geosaptial community
 ## Working with geometry:
 [Pymesh](https://pymesh.readthedocs.io/en/latest/) - A rapid prototyping platform focused on geometry processing.
 
-[Geometry3D](https://github.com/GouMinghao/Geometry3D/blob/master/docs/source/index.rst]) - Geometry3D is a simple python computational geographics library written in python.
+[Geometry3D](https://github.com/GouMinghao/Geometry3D/blob/master/docs/source/index.rst) - Geometry3D is a simple python computational geographics library written in python.
 
 [Libigl](https://libigl.github.io/libigl-python-bindings/) - A simple (C++) geometry processing library
 
