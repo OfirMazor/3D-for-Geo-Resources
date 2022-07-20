@@ -1,6 +1,5 @@
 # 3D-for-Geo-Resources
-Resources of open 3D data and tools for the geosaptial community
-
+Resources of open 3D geometies data and tools
 
 ## Python for 3D Geometry:
 [Pymesh](https://pymesh.readthedocs.io/en/latest/) - A rapid prototyping platform focused on geometry processing.
