@@ -16,6 +16,12 @@ Resources of open 3D geometies data and tools
 
 
 
+## SQL for 3D Geometry:
+
+[PostGIS 3d functions](https://postgis.net/docs/PostGIS_Special_Functions_Index.html#PostGIS_3D_Functions) - PostGIS Functions that support 3D
+
+
+
 ## Software for 3D Geometry
 
 [FreeCad](https://www.freecadweb.org/) - Open-source parametric 3D modeler made primarily to design real-life objects of any size.
