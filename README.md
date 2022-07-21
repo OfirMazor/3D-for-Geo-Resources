@@ -18,7 +18,7 @@ Resources of open 3D geometies data and tools
 
 ## SQL for 3D Geometry:
 
-[PostGIS 3d functions](https://postgis.net/docs/PostGIS_Special_Functions_Index.html#PostGIS_3D_Functions) - PostGIS Functions that support 3D
+[PostGIS 3D functions](https://postgis.net/docs/PostGIS_Special_Functions_Index.html#PostGIS_3D_Functions) - PostGIS Functions that support 3D
 
 
 
