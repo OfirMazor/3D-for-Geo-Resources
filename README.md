@@ -2,6 +2,9 @@
 Resources for open 3D geometies data and tools
 
 ## Python for 3D Geometry:
+
+[Trimesh](https://github.com/mikedh/trimesh) - pure Python (2.7-3.5+) library for loading and using triangular meshes with an emphasis on watertight surfaces. The goal of the library is to provide a full featured and well tested Trimesh object which allows for easy manipulation and analysis, in the style of the Polygon object in the Shapely library
+
 [Pymesh](https://pymesh.readthedocs.io/en/latest/) - A rapid prototyping platform focused on geometry processing.
 
 [Geometry3D](https://geometry3d.readthedocs.io/en/latest/) - Geometry3D is a simple python computational geographics library written in python.
