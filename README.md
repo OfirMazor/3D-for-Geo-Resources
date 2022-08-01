@@ -9,6 +9,8 @@ Resources for open 3D geometies data and tools
 
 [Geometry3D](https://geometry3d.readthedocs.io/en/latest/) - Geometry3D is a simple python computational geographics library written in python.
 
+[Open3D](http://www.open3d.org/) - Open-source library that supports rapid development of software that deals with 3D data. The Open3D frontend exposes a set of carefully selected data structures and algorithms in both C++ and Python. The backend is highly optimized and is set up for parallelization. 
+
 [Libigl](https://libigl.github.io/libigl-python-bindings/) - A simple (C++) geometry processing library
 
 [meshplot](https://github.com/skoch9/meshplot/) - Plot 3D triangle meshes
