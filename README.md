@@ -3,6 +3,8 @@ Resources for open 3D geometies data and tools
 
 ## Python for 3D Geometry:
 
+[pyVista](https://docs.pyvista.org/#) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK).
+
 [Trimesh](https://github.com/mikedh/trimesh) - Pure Python library for loading and using triangular meshes with an emphasis on watertight surfaces. The goal of the library is to provide a full featured and well tested Trimesh object which allows for easy manipulation and analysis, in the style of the Polygon object in the Shapely library.
 
 [Pymesh](https://pymesh.readthedocs.io/en/latest/) - A rapid prototyping platform focused on geometry processing.
