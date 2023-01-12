@@ -1,5 +1,5 @@
 # 3D-for-Geo-Resources
-Resources for open 3D geometies data and tools
+Resources of open 3D data and tools for the geospatial domaian
 
 ## Python for 3D Geometry:
 
